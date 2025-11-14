@@ -3,10 +3,10 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/Langue-Français-blue.svg)]()
 
-🔐 **Auteur :** Nicolas Deoux - NDXDev@gmail.com
-🔗 **LinkedIn :** [Nicolas Deoux](https://www.linkedin.com/in/nicolas-deoux-ab295980/)
-📅 **Date de création :** 14 novembre 2025
-🌐 **Langue :** Français
+- 🔐 **Auteur :** Nicolas Deoux - NDXDev@gmail.com
+- 🔗 **LinkedIn :** [Nicolas Deoux](https://www.linkedin.com/in/nicolas-deoux-ab295980/)
+- 📅 **Date de création :** 14 novembre 2025
+- 🌐 **Langue :** Français
 
 ---
 
@@ -926,8 +926,8 @@ Vous êtes libre de :
 ## 👤 À propos de l'auteur
 
 **Nicolas Deoux**
-📧 Email : NDXDev@gmail.com
-🔗 LinkedIn : [Nicolas Deoux](https://www.linkedin.com/in/nicolas-deoux-ab295980/)
+- 📧 Email : NDXDev@gmail.com
+- 🔗 LinkedIn : [Nicolas Deoux](https://www.linkedin.com/in/nicolas-deoux-ab295980/)
 
 ---
 
