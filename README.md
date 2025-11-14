@@ -12,15 +12,15 @@
 
 ## 📋 Table des matières
 
-- [Introduction à SSH](#introduction-à-ssh)
-- [Installation de SSH](#installation-de-ssh)
-- [Génération de clés SSH](#génération-de-clés-ssh)
-- [Connexion à un serveur distant](#connexion-à-un-serveur-distant)
-- [Configuration SSH avancée](#configuration-ssh-avancée)
-- [Transfert de fichiers avec SCP et SFTP](#transfert-de-fichiers-avec-scp-et-sftp)
-- [Bonnes pratiques de sécurité](#bonnes-pratiques-de-sécurité)
-- [FAQ et dépannage](#faq-et-dépannage)
-- [Ressources complémentaires](#ressources-complémentaires)
+- [Introduction à SSH](#-introduction-%C3%A0-ssh)
+- [Installation de SSH](#%EF%B8%8F-installation-de-ssh)
+- [Génération de clés SSH](#-g%C3%A9n%C3%A9ration-de-cl%C3%A9s-ssh)
+- [Connexion à un serveur distant](#-connexion-%C3%A0-un-serveur-distant)
+- [Configuration SSH avancée](#%EF%B8%8F-configuration-ssh-avanc%C3%A9e)
+- [Transfert de fichiers avec SCP et SFTP](#-transfert-de-fichiers-avec-scp-et-sftp)
+- [Bonnes pratiques de sécurité](#%EF%B8%8F-bonnes-pratiques-de-s%C3%A9curit%C3%A9)
+- [FAQ et dépannage](#-faq-et-d%C3%A9pannage)
+- [Ressources complémentaires](#-ressources-compl%C3%A9mentaires)
 
 ---
 
